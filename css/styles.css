@@ -1,0 +1,23 @@
+@media {
+
+}
+
+.top-container {
+
+}
+
+.music-note{
+  float:left;
+  margin-right:40px;
+}
+
+.price{
+  color:#203160;
+  margin:0;
+  padding:0;
+}
+
+h2 {
+  margin:0;
+  padding:0;
+}
