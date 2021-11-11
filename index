@@ -41,21 +41,11 @@
       </div>
       <a href="#" class="change">Change</a>
     </div>
+    <a href="#" id="proceed"> <div>Proceed to Payment </div></a>
+    <a href="#" id="cancel"> <div>Cancel Order </div> </a>
 
   </main>
 
-
-
-
-
-
-
-
-
-  Change
-
-  Proceed to Payment
-  Cancel Order
 
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
